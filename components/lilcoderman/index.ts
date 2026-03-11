@@ -1,0 +1,6 @@
+export { Header } from "./header"
+export { SocialIcons } from "./social-icons"
+export { ScrollIndicator } from "./scroll-indicator"
+export { DecorativeIcon } from "./decorative-icon"
+export { PlayButton } from "./play-button"
+export { WeaponCard } from "./weapon-card"
